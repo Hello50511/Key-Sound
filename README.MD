@@ -12,7 +12,6 @@ pip install keyboard
 ```
 
 
-https://user-images.githubusercontent.com/97099236/197999628-24fd972d-5896-4007-9ed3-3e76fd3f1a56.mp4
 
 
 소리 출처: https://drive.google.com/drive/folders/1lib1BwuxuIBSJgf5wDd0Z2g4FPlxEoXr
